@@ -1,18 +1,25 @@
 p{
   color:#8B4513;
-  background-color:#F0E68C;
+  background-color:#FFEFD5;
   border: 2px solid brown;
 }
 li{
   color:#8B4513;
-  background-color:#F0E68C;
+  background-color:#FFEFD5;
   border: 2px solid brown;
 }
 h4{
-  color:#F0E68C;
+  color:brown;
 }
 body{
-  background-color: brown;
-
-
+  background-color:	#FFDAB9;
+}
+h2{
+  color:brown;
+}
+h1{
+  color:brown;
+}
+h3{
+  color:brown;
 }
