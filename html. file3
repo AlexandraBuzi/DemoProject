@@ -4,6 +4,12 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="style.css">
   </head>
+  <nav>
+    <a href="index.html"> Horror literature </a>
+    <a href="html.page2"> Older horror films </a>
+    <a href="html.file3"> horror films</a>
+    <a href="works cited"> works cited </a>
+  </nav>
   <body>
     <h1> Modern horror films </h1>
     <p> Every one has heard of these famous horror films that are newer. These are great examples of how far horror has progressed from horror literature and 1900 films to present day. Horror has also progressed as effects have gotten better. This has led to the development of different forms of horror. Some examples of these would be slasher films,paranormal,or found footage.</p>
@@ -28,14 +34,19 @@
     <img src="https://media4.giphy.com/media/inCeSvjFS0mha/200_s.gif">
     <li> Texas chainsaw masacre </li>
     <p> This is the famous slasher horror with leatherface. If you havent heard of this horror film i would genuinley be suprised. It is still to this day considered to be one of the more frightening horror films.</p>
+    <img src="http://vignette2.wikia.nocookie.net/texaschainsawmassacre/images/4/4e/3016628-poster-p-1-leatherface-speaks-chainsaw-massacre-star-revisits-sweltering-house-of-horror_0.jpg/revision/latest/scale-to-width-down/670?cb=20141003060124" width="550" height="auto">
     <li> Saw (yes, even the sequels) </li>
     <p> This is one of the most famous sequence of torture based horror. It is violent bloody and incorperates many different types of horror all in one. The puppet mystery, creepy mask and bloody scenes make for a great scare.</p>
+    <img src="http://media.comicbook.com/2016/07/saw-190205.jpg">
     <li> The nightmare on elm street </li>
     <p> this famous movie deals with a monster that kills you in your sleep.Said monster is Freddie Cougar. This monster with sharp claws has been known for a long time. This movie isnt that old but old enough that you can get a slight old timey feel from it that adds to the overall effect.</p>
+    <img src="http://nightmareonelmstreetfilms.com/images/wp-content/gallery/a-nightmare-on-elm-street-2-freddys-revenge-promotional/a-nightmare-on-elm-street-2-freddys-revenge-promo-04.jpg" width="auto" height="400">
     <li> paranormal activity </li>
     <p> This one in all honesty is one of my least favorites. Its horror isnt really that scary in my opinion but, that doesnt mean it wont terrify you.This could be placed under a Found footage horror.It is also a paranormal horror (if the title didnt give it away). Its style of horror its moving things around and having things happened. This cause a lot of people fear and led to many pointless money making sequels like and popular movie should expect.</p>
+    <img src="https://i.ytimg.com/vi/2ty67xLEbHU/maxresdefault.jpg" width="550" height="auto">
     <li> Halloween </li>
     <p> Remember what i said earlier about popular movies getting pointless sequels, yeah this one also falls under that catagory. This popular horror movie has to do with Micheal Mires and the whole murder shabang. In this case its about a homicidal maniac that the phyciatrist knows about and a whole town of people.</p>
+    <img src="https://i.ytimg.com/vi/_AZ0O486E68/maxresdefault.jpg" width="550" height="auto">
     <li> Silence of the lambs </li>
     <p> I consider this to be one of the most well written ones in this list. Its about solving a murder case were different women are murdered and a peice of there skin is taken. SPOILER ALERT; Late we find out that the differentt peices of skin are being sown together to make a skin suit.(of a womens body).</p>
     <li> The babadook </li>

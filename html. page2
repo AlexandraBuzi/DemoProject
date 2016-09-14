@@ -4,6 +4,12 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="style.css">
   </head>
+  <nav>
+    <a href="index.html"> Horror literature </a>
+    <a href="html.page2"> Older horror films </a>
+    <a href="html.file3"> horror films</a>
+    <a href="works cited"> works cited </a>
+  </nav>
   <body>
    <h1>Beginning of horror films </h1>
    <h3>Frankenstien 1910</h3>
@@ -24,7 +30,7 @@
   <p> This is a classic that almost everyone has atleast head about. The count dracula turns a girl into a vampire. The attention is then turned to her friend. A doctor realizes the vampires and makes sure there are measures that need to be taken to ensure she doesnt become one of the undead.</p>
   <h3> Final thoughts </h3>
   <p> These were the films that gave way to the present day horror films.</p>
-  
+
 
 
 

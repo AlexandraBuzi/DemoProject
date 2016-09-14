@@ -4,6 +4,12 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="style.css">
   </head>
+  <nav>
+    <a href="index.html"> Horror literature </a>
+    <a href="html.page2"> Older horror films </a>
+    <a href="html.file3"> horror films</a>
+    <a href="works cited"> works cited </a>
+  </nav>
   <body>
   <h2> Works Cited </h2>
   <ul>

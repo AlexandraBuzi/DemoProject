@@ -1,25 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Baloo+Tamma|Indie+Flower");
+@import url("https://fonts.googleapis.com/css?family=Creepster" );
 p{
   color:#8B4513;
   background-color:#FFEFD5;
   border: 2px solid brown;
+  font-family: Indie Flower;
+  text-align:center;
+
 }
 li{
   color:#8B4513;
   background-color:#FFEFD5;
   border: 2px solid brown;
+  font-family: Indie Flower;
+  text-align: center;
+
+
 }
 h4{
   color:brown;
+  font-family: creepster;
+  text-align: center;
+
 }
 body{
   background-color:	#FFDAB9;
 }
 h2{
   color:brown;
+  font-family: creepster;
+  text-align: center;
+
 }
 h1{
   color:brown;
+  font-family: creepster;
+  text-align: center;
 }
 h3{
   color:brown;
+  font-family: creepster;
+  text-align: center;
 }
